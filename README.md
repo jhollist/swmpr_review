@@ -5,5 +5,4 @@ Analyzing Environmental Data for Estuaries.
 
 Comments made directly on [swmpr_manu_jwh_review](https://github.com/jhollist/swmpr_review/blob/master/swmpr_manu_jwh_review.pdf)
 
-Write up in [swmpr_review_comments](https://github.com/jhollist/swmpr_review/blob/master/swmpr_review_comments.md)
 
